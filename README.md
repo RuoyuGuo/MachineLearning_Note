@@ -16,13 +16,13 @@ All slides, assginment belong to Hung-yi Lee'.
 
 ## Assignment introduction:
 
-Details will be found in assignments page. Click HW[1234](link) in that page.
+Details will be found in assignments page. Click HW\[1234\](link) in that page.
 
 Some assignments may not include data. Download them by youself.
 
 ### Ass1(HW1: regression):
 
-My code: PM_pre_model[12].py.
+My code: PM_pre_model\[12\].py.
 
 They using two different types of feature(more in report.docx)
 
