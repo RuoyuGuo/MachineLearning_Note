@@ -1,6 +1,6 @@
 # My ML NoteBook
 
-## Attention:
+## **********:
 All slides, assginment belong to Hung-yi Lee'.
 
 ## source: 
@@ -65,3 +65,5 @@ get data for two tasks from assignment website.
 * RNN: 21
 * Ensemble: 22
 * Reinforce learning: 23
+
+### If you find any mistakes or have any suggestions, create an issue. Thank you ! 
