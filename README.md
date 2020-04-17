@@ -9,8 +9,8 @@ All slides, assginment belong to Hung-yi Lee'.
 * course page in http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html 
 
 ## How to use my notebook?
-* lecture slide(in current directory): [0-9]{2}*\\.(pdf)|(ipynb)
-* note(in current directory): Note_*.ipynb (name is the same as each topic)
+* lecture slide(in current directory): [0-9]{2}.*\\.(pdf)|(ipynb)
+* note(in current directory): Note_\.*.ipynb (name is the same as each topic)
 * practice(in practice folder): homework(assignment) in this course, 
 * textbook (in textbook folder): Bishop 2006
 
