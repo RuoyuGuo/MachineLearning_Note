@@ -1,7 +1,15 @@
 # My ML Note
 
+## Update:
+
+* new concept:
+
+    * slide: Tree_model.pdf
+
+    * note: Note_Tree_model.ipynb
+
 ## **********:
-All slides, assginment belong to Hung-yi Lee'.
+All slides start with number, assginment belong to Hung-yi Lee'.
 
 ## source: 
 * Hung-yi Lee's personal page http://speech.ee.ntu.edu.tw/~tlkagk/index.html 
