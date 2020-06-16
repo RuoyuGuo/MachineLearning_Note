@@ -8,8 +8,8 @@
 
     * note: Note_Tree_model.ipynb
 
-## **********:
-All slides start with number, assginment belong to Hung-yi Lee'.
+## delaration:
+All slides start with number, assginment are from Hung-yi Lee' lectures.
 
 ## source: 
 * Hung-yi Lee's personal page http://speech.ee.ntu.edu.tw/~tlkagk/index.html 
